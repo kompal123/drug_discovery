@@ -1,4 +1,4 @@
-# Computational Drug Discovery Using Machine Learning for Toxicity Prediction
+# Computational Drug Discovery Using Machine Learning (Drug_Repurposing)
 
 ## Project Overview
 This project focuses on computational drug discovery using machine learning approaches for predicting **drug-induced liver injury (DILI)**. Early identification of hepatotoxic compounds is a critical step in drug discovery because toxicity remains one of the major reasons for drug failure during development and post-marketing withdrawal. This project focuses on computational drug repurposing for **Asthma (ICD-10: J45)** using machine learning and cheminformatics approaches. Drug repurposing aims to identify existing approved drugs that may have therapeutic potential for asthma, reducing the time, cost, and risk associated with traditional de novo drug discovery.
